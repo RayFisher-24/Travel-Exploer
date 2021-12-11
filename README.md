@@ -1,5 +1,4 @@
-<snippet>
-  <content><![CDATA[
+<![CDATA[
 # ${1:Travel-Exploer}
 TODO: Travel Website clean UI 
 ## Installation
@@ -18,6 +17,4 @@ TODO: 5/11/2021
 TODO: https://www.youtube.com/watch?v=Oa9LTDR9ugU
 #Website Link
 TODO: https://rayfisher-24.github.io/Travel-Exploer/home.html
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+]]>
